@@ -3,19 +3,5 @@
 
 Test jeden
 
-xx
-
-test dwa
-
-
-
-
-
-
-
-
-
-
-
-
-local
+to jest nowa tresc
+koniec
