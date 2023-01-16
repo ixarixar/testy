@@ -4,4 +4,5 @@
 Test jeden
 
 to jest nowa tresc
-koniec
+koniec-w gicie
+koniec-w lokalu
