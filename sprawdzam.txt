@@ -1,8 +1,9 @@
 
 
+1
+2
+3
+orgin remote
 
-Test jeden
 
-to jest nowa tresc
-koniec-w gicie
-koniec-w lokalu
+
