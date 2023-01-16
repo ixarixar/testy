@@ -10,3 +10,4 @@ orgin remote
 
 
 
+z remote, add this line, commit&push remote 
